@@ -7,8 +7,10 @@ This repository is part of my learning journey, where I explore different techni
 - Creating interactive dashboards
 - Performing data cleaning, modeling & visualization
 - Use DAX measure for advanced analytics
+- 
 
 👯 Open to learning, sharing & collaboration 
+
 
 🌱 [LinkedIn](https://www.linkedin.com/in/ayeshabatool160/)
 🌱 [e-mail](mailto:ayeshabatool160@gmail.com)
