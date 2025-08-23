@@ -4,7 +4,7 @@ I’m currently learning Data Visualization using 🟡Power BI.
 This repository is part of my learning journey, where I explore different techniques to turn raw data into meaningful insights.
 
  📚 What am I learning:
-- Create interactive dashboards
+- Creating interactive dashboards
 - Performing data cleaning, modeling & visualization
 - Use DAX measure for advanced analytics
 
@@ -12,3 +12,5 @@ This repository is part of my learning journey, where I explore different techni
 
 🌱 [LinkedIn](https://www.linkedin.com/in/ayeshabatool160/)
 🌱 [e-mail](ayeshabatool160@gmail.com)
+
+
