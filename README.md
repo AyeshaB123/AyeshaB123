@@ -11,6 +11,6 @@ This repository is part of my learning journey, where I explore different techni
 👯 Open to learning, sharing & collaboration 
 
 🌱 [LinkedIn](https://www.linkedin.com/in/ayeshabatool160/)
-🌱 [e-mail](ayeshabatool160@gmail.com)
+🌱 [e-mail](mailto:ayeshabatool160@gmail.com)
 
 
