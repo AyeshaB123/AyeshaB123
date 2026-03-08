@@ -1,9 +1,9 @@
 Hi there 👋 Ayesha's here!
 
-I’m currently learning Data Visualization using 🟡Power BI.
-This repository is part of my learning journey, where I explore different techniques to turn raw data into meaningful insights.
+This repository is part of my learning journey for becoming a Data Analyst, where I explore different techniques to exploring raw data, organizing, creatind data models and converting them into actionable insights.
 
- 📚 What am I learning:
+ 📚 This repository includes data analytics process using MS-Excel & Power BI:
+- Data Cleaning
 - Creating interactive dashboards
 - Performing data cleaning, modeling & visualization
 - Use DAX measure for advanced analytics
