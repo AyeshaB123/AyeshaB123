@@ -1,13 +1,15 @@
 Hi there 👋 Ayesha's here!
 
-This repository is part of my learning journey for becoming a Data Analyst, where I explore different techniques to exploring raw data, organizing, creatind data models and converting them into actionable insights.
+This repository is part of my learning journey to become a Data Analyst, where I explore techniques for working with raw data, organizing datasets, building data models, and converting them into actionable insights.
 
  📚 This repository includes data analytics process using MS-Excel & Power BI:
-- Data Cleaning
+- Data Cleaning and Data Preparation
+- Data Modeling and Structuring
 - Creating interactive dashboards
-- Performing data cleaning, modeling & visualization
-- Use DAX measure for advanced analytics
-  
+- Data visualization and reporting
+- Using SQL for data transformation and analysis
+- Using DAX measures for advanced analytics in Power BI
+
 
 👯 Open to learning, sharing & collaboration 
 
