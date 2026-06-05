@@ -1,6 +1,6 @@
 Hi there 👋 Ayesha's here!
 
-This repository is part of my learning journey to become a Data Analyst, where I explore techniques for working with raw data, organizing datasets, building data models, and converting them into actionable insights.
+This is a part of my learning journey, where I explore techniques for working with raw data, organizing datasets, building data models, and converting them into actionable insights.
 
  📚 This repository includes data analytics process using MS-Excel, SQL and Power BI:
 - Data Cleaning and Data Preparation
