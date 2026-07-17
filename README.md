@@ -6,7 +6,7 @@ In today's fast-changing and highly competitive markets, businesses constantly f
 
 That's the part of analytics that fascinates me.
 
-I enjoy understanding what's happening inside a business—why a problem exists, what factors are driving it, what questions need to be answered, and how data can help uncover the right solution.
+I enjoy understanding what's happening inside a business, why a problem exists, what factors are driving it, what questions need to be answered, and how data can help uncover the right solution.
 
 Rather than jumping straight into reports or dashboards, I like breaking down business requirements, identifying the metrics that truly matter, and tracing them back to the underlying data. I believe the quality of an analysis depends not only on technical skills, but also on asking the right questions before searching for the answers.
 
