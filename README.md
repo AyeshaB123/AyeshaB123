@@ -15,6 +15,9 @@ That mindset shapes every project in this repository. From profiling raw dataset
 For me, analytics is more than writing queries or building visualizations. It's about understanding business processes, translating requirements into structured analysis, and delivering insights that decision-makers can trust.
 
 
+
+
+
 🌱 [LinkedIn](https://www.linkedin.com/in/ayeshabatool160/)
 🌱 [e-mail](mailto:ayeshabatool160@gmail.com)
 
