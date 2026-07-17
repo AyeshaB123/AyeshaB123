@@ -1,17 +1,14 @@
-Hi there 👋 Ayesha's here!
+Hi, I'm Ayesha.
 
-This is a part of my learning journey, where I explore techniques for working with raw data, organizing datasets, building data models, and converting them into actionable insights.
+Most portfolio projects start with clean datasets. Mine usually don't.
 
- 📚 This repository includes data analytics process using MS-Excel, SQL and Power BI:
-- Data Cleaning and Data Preparation
-- Data Modeling and Structuring
-- Creating interactive dashboards
-- Data visualization and reporting
-- Using SQL for data transformation and analysis
-- Using DAX measures for advanced analytics in Power BI
+I enjoy taking messy spreadsheets apart, figuring out what's actually wrong with them, documenting every decision, and rebuilding them into something that can be trusted before any analysis begins. Somewhere along the way I realized that cleaning data isn't the boring part of analytics—it's where most of the thinking happens.
 
+This repository is a collection of projects I've built while working with Excel, SQL, and Power BI. Every project reflects how I approach a problem: understand the data first, question every assumption, document every transformation, and only then build the analysis.
 
-👯 Open to learning, sharing & collaboration 
+You'll find projects covering data cleaning, SQL analysis, Power Query, Power BI dashboards, and business-focused reporting—not just the final output, but the reasoning behind it.
+
+I'm now looking forward to applying these skills to real business problems and continuing to grow as a data analyst.
 
 
 🌱 [LinkedIn](https://www.linkedin.com/in/ayeshabatool160/)
