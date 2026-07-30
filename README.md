@@ -13,14 +13,14 @@ I'm a Data Analyst focused on helping businesses understand and solve problems t
 - Building data models, DAX measures, and interactive Power BI dashboards to support decision-making.
 
 ### 🛠️ Tools
-- **Database & SQL** — SQL Server
-- **Data Preparation** — Power Query, Excel
-- **Data Visualization & BI** — Power BI, Excel
-- **Analytics** — DAX, Data Modelling
+- **Database & SQL** - SQL Server
+- **Data Preparation** - Power Query, Excel
+- **Data Visualization & BI** - Power BI, Excel
+- **Analytics** - DAX, Data Modelling
 
 ### 🚀 Projects
 
- Here are my [Projects](https://github.com/Ayeshah123?tab=repositories).
+ Here are my [Projects](https://github.com/Ayeshah123/Data-Analysis-Portfolio/blob/main/README.md).
 
 ### 🌐 Let's Connect
 
