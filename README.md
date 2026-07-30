@@ -17,7 +17,6 @@ I'm a Data Analyst focused on helping businesses understand and solve problems t
 - **Data Preparation** — Power Query, Excel
 - **Data Visualization & BI** — Power BI, Excel
 - **Analytics** — DAX, Data Modelling
-- **AI Tools** — Using AI to improve analytical efficiency
 
 ### 🚀 Projects
 
