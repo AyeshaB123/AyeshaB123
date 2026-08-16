@@ -25,4 +25,4 @@ I'm a Data Analyst focused on helping businesses understand and solve problems t
 ### 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
-- [Email](ayeshabatool160@gmail.com)
+- [Email](ayesha.batool.career@gmail.com)
