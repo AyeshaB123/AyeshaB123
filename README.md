@@ -12,17 +12,19 @@ I'm a Data Analyst focused on helping businesses understand and solve problems t
 - Exploring trends, patterns, anomalies, and relationships to uncover meaningful insights.
 - Building data models, DAX measures, and interactive Power BI dashboards to support decision-making.
 
-### 🛠️ Tools
-- **Database & SQL** - SQL Server
-- **Data Preparation** - Power Query, Excel
-- **Data Visualization & BI** - Power BI, Excel
-- **Analytics** - DAX, Data Modelling
+
+### 🛠️ Skills & Tools
+- **Data Architecture & Pipelines** - Medallion Architecture (Bronze, Silver, Gold), API Data Ingestion, Pipeline Testing, SQL Server Agent, Job Scheduling, Monitoring
+- **SQL Server** - DDL, DML, DQL, CTEs, Views, Stored Procedures, ERD, Database Relationships
+- **Power BI** - Power Query Editor, Data Wrangling, Data Modeling, Semantic Models, DAX, Interactive Dashboards
+- **Python** - API Integration, Data Ingestion, Data Transformation, Automation
+- **Postman** - API Testing
+- **Excel** - Pivot Tables, Advanced Formulas, Dashboards
 
 ### 🚀 Projects
 
- Here are my [Projects](https://github.com/Ayeshah123/Data-Analysis-Portfolio/blob/main/README.md).
+Here are my [Projects](https://github.com/Ayeshah123/Data-Analysis-Portfolio/blob/main/README.md).
 
 ### 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
-- [Email](ayesha.batool.career@gmail.com)
+- [Linktree](https://linktr.ee/ayesha.batool)
