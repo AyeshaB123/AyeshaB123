@@ -14,17 +14,13 @@ I'm a Data Analyst focused on helping businesses understand and solve problems t
 
 
 ### 🛠️ Skills & Tools
-- **Data Architecture & Pipelines** - Medallion Architecture (Bronze, Silver, Gold), API Data Ingestion, Pipeline Testing, SQL Server Agent, Job Scheduling, Monitoring
+- **Data Architecture & Pipelines** - Medallion Architecture, API Data Ingestion, Pipeline Testing, SQL Server Agent, Job Scheduling, Monitoring
 - **SQL Server** - DDL, DML, DQL, CTEs, Views, Stored Procedures, ERD, Database Relationships
 - **Power BI** - Power Query Editor, Data Wrangling, Data Modeling, Semantic Models, DAX, Interactive Dashboards
 - **Python** - API Integration, Data Ingestion, Data Transformation, Automation
 - **Postman** - API Testing
 - **Excel** - Pivot Tables, Advanced Formulas, Dashboards
 
-### 🚀 Projects
-
-Here are my [Projects](https://github.com/Ayeshah123/Data-Analysis-Portfolio/blob/main/README.md).
-
-### 🌐 Let's Connect
-
+### Links
+- [View my Projects](https://github.com/Ayeshah123/Data-Analysis-Portfolio/blob/main/README.md)
 - [Linktree](https://linktr.ee/ayesha.batool)
